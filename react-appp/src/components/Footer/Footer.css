@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+footer{
+    clear: both;
+    background-color: #4aaaa6;
+    height: 80px;
+    margin-top: 550px;
+}
+.green{
+    background-color: #ccc;
+    height: 8px;
+}
+.copyright{
+    color: #fff;
+    text-align: center;
+    margin-top: 20px;
+}

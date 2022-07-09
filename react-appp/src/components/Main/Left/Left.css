@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.left{
+    float: left;
+    background-color: #fff;
+    width: 550px;
+    height: 450px;
+    margin: 55px 0 0 170px;
+}
+.about-div{
+    color: #4aaaa6;
+    font-size: 22px;
+    font-weight: bold;
+    padding: 25px;
+}
+.about-hr{
+    width: 505px;
+    margin-left: 23px;
+}
+.image{
+    width: 180px;
+    height: 180px;
+    margin: 22px;
+}
+.p1{
+    float:right;
+    width: 250px;
+    margin: 22px 60px 0 0;
+}
+.p2{
+    width: 500px;
+    margin-left: 20px;
+}

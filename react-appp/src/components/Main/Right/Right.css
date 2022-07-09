@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.right{
+    float: right;
+    background-color: #fff;
+    width: 270px;
+    height: 170px;
+    margin: 55px 220px 0 0;
+}
+.connect-div{
+    color: #4aaaa6;
+    font-size: 19px;
+    font-weight: bold;
+    padding: 17px;
+    text-align: center;
+}
+.connect-hr{
+    width: 230px;
+    margin-left: 21px;
+}
+.logo{
+    width: 55px;
+    height: 55px;
+    margin: 10px;
+    border-radius: 20%;
+}
+.contactlogo{
+    padding: 14px;
+    margin-left: 15px;
+}
